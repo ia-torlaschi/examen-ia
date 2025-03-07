@@ -36,7 +36,7 @@ Este proyecto implementa un sistema interactivo para realizar ex√°menes de opci√
 1. **Clonar el repositorio**:
 
 ```bash
-git clone https://github.com/usuario/examen-interactivo.git
+git clone https://github.com/ia-torlaschi/examen-ia/examen-interactivo.git
 cd examen-interactivo
 ```
 
