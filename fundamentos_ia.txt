@@ -1,0 +1,159 @@
+1:
+¿Cuál de los siguientes NO se considera un paradigma principal de la Inteligencia Artificial?
+A. Aprendizaje por refuerzo
+B. Razonamiento basado en casos
+C. Sistemas multiagente
+D. Programación orientada a objetos
+Correct Answer: D
+
+2:
+¿Qué es el test de Turing?
+A. Una prueba para medir la capacidad de procesamiento de un ordenador
+B. Un examen para certificar a programadores de IA
+C. Una prueba para determinar si una máquina exhibe un comportamiento inteligente equivalente al humano
+D. Un algoritmo para optimizar redes neuronales
+Correct Answer: C
+
+3:
+¿Cuál de estos NO es un tipo de aprendizaje automático?
+A. Aprendizaje supervisado
+B. Aprendizaje no supervisado
+C. Aprendizaje por refuerzo
+D. Aprendizaje intuitivo
+Correct Answer: D
+
+4:
+En el contexto de la IA, ¿qué es un agente?
+A. Una persona que programa algoritmos de IA
+B. Una entidad que percibe su entorno y actúa sobre él para lograr sus objetivos
+C. Un software específico para minería de datos
+D. Un robot físico con capacidades de movimiento
+Correct Answer: B
+
+5:
+¿Cuál es el propósito del algoritmo A* en inteligencia artificial?
+A. Reconocimiento de patrones en imágenes
+B. Procesamiento de lenguaje natural
+C. Encontrar el camino más eficiente entre dos puntos
+D. Clasificación de datos en grupos
+Correct Answer: C
+
+6:
+¿Qué representa una neurona en una red neuronal artificial?
+A. Un nodo que procesa información y la transmite a otros nodos
+B. Un fragmento de código que se auto-replica
+C. Un componente hardware especializado
+D. Un algoritmo completo de reconocimiento de patrones
+Correct Answer: A
+
+7:
+¿Cuál fue considerada una de las primeras demostraciones de IA?
+A. El programa ELIZA
+B. La calculadora mecánica de Pascal
+C. El primer compilador de FORTRAN
+D. El telégrafo de Morse
+Correct Answer: A
+
+8:
+En aprendizaje automático, ¿qué es el "overfitting"?
+A. Cuando un modelo se ajusta tan bien a los datos de entrenamiento que pierde capacidad de generalización
+B. Cuando un algoritmo es demasiado complejo para el hardware disponible
+C. Cuando los datos de entrada son insuficientes para el entrenamiento
+D. Cuando las predicciones superan consistentemente el margen de error aceptable
+Correct Answer: A
+
+9:
+¿Qué es el procesamiento de lenguaje natural (NLP)?
+A. Un tipo de comunicación entre robots industriales
+B. La capacidad de las máquinas para entender y generar lenguaje humano
+C. Un protocolo de comunicación entre diferentes sistemas de IA
+D. Un método para traducir código de programación a instrucciones de máquina
+Correct Answer: B
+
+10:
+¿Cuál de estos es un ejemplo de sistema experto?
+A. Un asistente virtual como Siri o Alexa
+B. Un programa de diagnóstico médico basado en reglas
+C. Un automóvil autónomo
+D. Un sistema de recomendación como el de Netflix
+Correct Answer: B
+
+11:
+¿Qué es el aprendizaje profundo (deep learning)?
+A. Un subcampo del aprendizaje automático basado en redes neuronales con múltiples capas
+B. El estudio intensivo de algoritmos durante periodos prolongados
+C. Un método de programación que utiliza recursión profunda
+D. Un enfoque filosófico sobre la naturaleza de la inteligencia
+Correct Answer: A
+
+12:
+¿Cuál de estos NO es un lenguaje comúnmente utilizado en el desarrollo de IA?
+A. Python
+B. COBOL
+C. R
+D. Julia
+Correct Answer: B
+
+13:
+¿Qué son los algoritmos genéticos en el contexto de la IA?
+A. Algoritmos que pueden autoreplicarse y evolucionar
+B. Métodos de optimización inspirados en el proceso de selección natural
+C. Algoritmos que pueden modificar su propio código fuente
+D. Técnicas para analizar información genética en bioinformática
+Correct Answer: B
+
+14:
+¿Qué ventaja ofrecen los sistemas basados en reglas?
+A. Aprenden automáticamente de nuevos datos sin programación
+B. Son transparentes y explicables en su toma de decisiones
+C. Pueden generalizar a partir de pocos ejemplos
+D. Son más rápidos que otros enfoques de IA
+Correct Answer: B
+
+15:
+En el contexto de la visión por computadora, ¿qué es la segmentación de imágenes?
+A. Dividir una imagen en regiones significativas
+B. Reducir el tamaño de los archivos de imagen
+C. Convertir imágenes a escala de grises
+D. Aplicar filtros para mejorar la calidad visual
+Correct Answer: A
+
+16:
+¿Cuál es el principal desafío de la comprensión del lenguaje natural?
+A. El procesamiento de grandes volúmenes de texto
+B. La ambigüedad inherente al lenguaje humano
+C. La limitación del vocabulario en las máquinas
+D. La velocidad de procesamiento de texto
+Correct Answer: B
+
+17:
+¿Qué significa GAI (General Artificial Intelligence)?
+A. Inteligencia artificial que funciona solamente con algoritmos genéticos
+B. Sistemas de IA capaces de aprender cualquier tarea intelectual que un humano pueda realizar
+C. Un consorcio global de investigadores en IA
+D. Inteligencia artificial optimizada para procesamiento gráfico
+Correct Answer: B
+
+18:
+¿Cuál es el objetivo principal del clustering en aprendizaje no supervisado?
+A. Predecir valores numéricos
+B. Clasificar datos en categorías predefinidas
+C. Agrupar datos similares sin etiquetas previas
+D. Optimizar parámetros de entrenamiento
+Correct Answer: C
+
+19:
+¿Qué es un modelo de Markov oculto (HMM)?
+A. Un tipo de red neuronal especializada en predicción de series temporales
+B. Un modelo estadístico donde los estados del sistema no son directamente observables
+C. Un algoritmo para cifrar comunicaciones entre sistemas de IA
+D. Un sistema que oculta información sensible durante el procesamiento
+Correct Answer: B
+
+20:
+¿Cuál fue una de las principales contribuciones de Alan Turing al campo de la IA?
+A. Inventó el primer lenguaje de programación específico para IA
+B. Construyó el primer robot con capacidades de aprendizaje
+C. Propuso la prueba de Turing y sentó bases teóricas sobre la computabilidad
+D. Desarrolló el primer sistema experto funcional
+Correct Answer: C
