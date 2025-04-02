@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build*/
+*dist*/
+*.egg-info/
+*.spec
+
+# Entornos Virtuales
+venv/
+env/
+.venv/
+.env
+*.env
+
+# Archivos de Configuración/Logs específicos del proyecto
+examen_config.json  # Considera si quieres versionar una plantilla vs la real
+log_parser.txt
+*.log
+
+# Resultados generados
+resultados_*.txt
+resultados_*.pdf
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs/Editores
+.idea/
+.vscode/
+*.swp
+*.swo
