@@ -3,7 +3,7 @@ import json
 import os
 
 CONFIG_FILE = 'examen_config.json'
-DEFAULT_RUTA_ARCHIVO = '50-finales-completo.txt' # Ajusta si tu archivo por defecto es otro
+DEFAULT_RUTA_ARCHIVO = 'test.txt' # Ajusta si tu archivo por defecto es otro
 
 def cargar_configuracion():
     """Carga la configuración desde un archivo JSON."""
