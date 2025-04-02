@@ -1,35 +1,93 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*build*/
-*dist*/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
 *.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
 *.spec
 
-# Entornos Virtuales
-venv/
-env/
-.venv/
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
 .env
-*.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# Archivos de Configuración/Logs específicos del proyecto
-examen_config.json  # Considera si quieres versionar una plantilla vs la real
-log_parser.txt
-*.log
+# Spyder project settings
+.spyderproject
+.spyproject
 
-# Resultados generados
-resultados_*.txt
-resultados_*.pdf
+# Rope project settings
+.ropeproject
 
-# Archivos del Sistema Operativo
+# mkdocs documentation
+/site
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# Archivos de IDEs/Editores
-.idea/
-.vscode/
-*.swp
-*.swo
+# Archivos específicos de este proyecto
+examen_config.json
+log_parser.txt
+resultados_*.txt
+resultados_*.pdf
