@@ -1,0 +1,165 @@
+1:
+¿Cuál es el objetivo principal de la Inteligencia Artificial (IA)?
+A. Crear programas que siempre ganen en los juegos.
+B. Replicar la conciencia humana en las máquinas.
+C. Desarrollar sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.
+D. Automatizar únicamente tareas repetitivas de cálculo.
+Correct Answer: C
+
+2:
+¿Qué campo de la IA se centra en permitir que las computadoras "vean" e interpreten imágenes?
+A. Procesamiento de Lenguaje Natural (NLP)
+B. Visión por Computadora (Computer Vision)
+C. Robótica
+D. Sistemas Expertos
+Correct Answer: B
+
+3:
+¿Qué tipo de aprendizaje automático utiliza datos etiquetados para entrenar un modelo?
+A. Aprendizaje Supervisado
+B. Aprendizaje No Supervisado
+C. Aprendizaje por Refuerzo
+D. Aprendizaje Profundo
+Correct Answer: A
+
+4:
+¿Cuál de las siguientes es una aplicación común del Aprendizaje por Refuerzo?
+A. Clasificación de correos electrónicos como spam o no spam.
+B. Agrupación de clientes con hábitos de compra similares.
+C. Entrenamiento de un agente para jugar videojuegos o controlar un robot.
+D. Predicción del precio de las acciones basado en datos históricos.
+Correct Answer: C
+
+5:
+En el contexto de IA, ¿qué significa "heurística"?
+A. Una garantía matemática de que se encontrará la solución óptima.
+B. Un conjunto de datos de entrenamiento perfectamente etiquetado.
+C. Una regla o método práctico, no garantizado de ser óptimo, pero útil para encontrar soluciones rápidas.
+D. El proceso de dividir un problema complejo en subproblemas más pequeños.
+Correct Answer: C
+
+6:
+¿Qué es una Red Neuronal Artificial (RNA)?
+A. Un diagrama de flujo complejo para la toma de decisiones.
+B. Un modelo computacional inspirado en la estructura y funcionamiento del cerebro humano.
+C. Un tipo de base de datos optimizada para IA.
+D. Un algoritmo de ordenamiento de datos.
+Correct Answer: B
+
+7:
+¿Cuál de los siguientes es un ejemplo de Aprendizaje No Supervisado?
+A. Entrenar un modelo para identificar si una imagen contiene un perro o un gato.
+B. Agrupar artículos de noticias sobre temas similares sin saber los temas de antemano (Clustering).
+C. Predecir si un cliente hará clic en un anuncio basándose en clics anteriores.
+D. Usar un sistema de recompensas y castigos para que un robot aprenda a caminar.
+Correct Answer: B
+
+8:
+¿Qué significa que un algoritmo de IA sea una "caja negra" (black box)?
+A. Que solo funciona con datos numéricos oscuros.
+B. Que sus procesos internos y la forma en que llega a una decisión son difíciles o imposibles de entender para los humanos.
+C. Que requiere hardware especializado de color negro.
+D. Que es un algoritmo secreto o propietario.
+Correct Answer: B
+
+9:
+¿Cuáles de los siguientes son subcampos importantes de la Inteligencia Artificial? (Selección Múltiple)
+A. Aprendizaje Automático (Machine Learning)
+B. Procesamiento de Señales Digitales
+C. Procesamiento de Lenguaje Natural (NLP)
+D. Diseño de Circuitos Integrados
+E. Visión por Computadora
+Correct Answer: A
+Correct Answer: C
+Correct Answer: E
+
+10:
+¿Qué pionero de la computación propuso una prueba para determinar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un humano?
+A. Charles Babbage
+B. Ada Lovelace
+C. John von Neumann
+D. Alan Turing
+Correct Answer: D
+
+11:
+En aprendizaje automático, ¿qué es el "overfitting" o sobreajuste?
+A. Cuando un modelo se ajusta demasiado bien a los datos de entrenamiento y pierde capacidad de generalizar a datos nuevos.
+B. Cuando un modelo es demasiado simple para capturar la complejidad de los datos.
+C. Cuando los datos de entrenamiento no son representativos del problema real.
+D. Cuando el algoritmo tarda demasiado tiempo en entrenar.
+Correct Answer: A
+
+12:
+¿Cuál es el propósito principal del Procesamiento de Lenguaje Natural (NLP)?
+A. Optimizar la velocidad de las redes de computadoras.
+B. Permitir que las computadoras comprendan, interpreten y generen lenguaje humano.
+C. Analizar patrones climáticos complejos.
+D. Traducir lenguajes de programación entre sí.
+Correct Answer: B
+
+13:
+¿Qué describe mejor la IA Débil o Estrecha (Narrow AI)?
+A. Una IA con capacidades intelectuales generales iguales a las de un humano.
+B. Un sistema de IA que es físicamente débil.
+C. Una IA diseñada y entrenada para realizar una tarea específica (ej. reconocimiento facial, jugar ajedrez).
+D. Una teoría obsoleta sobre inteligencia artificial.
+Correct Answer: C
+
+14:
+Dentro del contexto de la IA, ¿qué es un "agente inteligente"?
+A. Un programador humano experto en IA.
+B. Una entidad (software o hardware) que percibe su entorno a través de sensores y actúa sobre él mediante actuadores para alcanzar objetivos.
+C. Un virus informático con capacidades de aprendizaje.
+D. Un tipo específico de red neuronal.
+Correct Answer: B
+
+15:
+¿Cuál de las siguientes técnicas se utiliza comúnmente para la clasificación en aprendizaje supervisado?
+A. K-Means Clustering
+B. Regresión Lineal
+C. Máquinas de Vectores de Soporte (SVM)
+D. Análisis de Componentes Principales (PCA)
+Correct Answer: C
+
+16:
+¿Qué tarea intenta resolver un algoritmo de regresión en aprendizaje automático?
+A. Asignar puntos de datos a categorías discretas predefinidas.
+B. Agrupar puntos de datos similares sin conocimiento previo.
+C. Predecir un valor numérico continuo (ej. precio de una casa, temperatura).
+D. Reducir la dimensionalidad de los datos.
+Correct Answer: C
+
+17:
+¿A qué se refiere el "sesgo" (bias) en un modelo de IA?
+A. La preferencia del modelo por un tipo específico de hardware.
+B. Errores sistemáticos o injusticias en las predicciones del modelo, a menudo derivados de datos de entrenamiento sesgados.
+C. La velocidad de aprendizaje del modelo.
+D. La cantidad de memoria que utiliza el modelo.
+Correct Answer: B
+
+18:
+¿Quién acuñó el término "Inteligencia Artificial" en 1956?
+A. John McCarthy
+B. Alan Turing
+C. Marvin Minsky
+D. Geoffrey Hinton
+Correct Answer: A
+
+19:
+¿Qué es un Sistema Experto?
+A. Cualquier programa escrito por un experto en IA.
+B. Un sistema de IA diseñado para imitar la capacidad de toma de decisiones de un experto humano en un dominio específico.
+C. Un robot humanoide con habilidades sociales avanzadas.
+D. Un motor de búsqueda como Google.
+Correct Answer: B
+
+20:
+¿Cuáles de los siguientes son ejemplos de IA Estrecha (Narrow AI)? (Selección Múltiple)
+A. Filtros de spam en correos electrónicos.
+B. Una IA hipotética capaz de realizar cualquier tarea intelectual humana (IA General).
+C. Software de reconocimiento facial.
+D. Sistemas de recomendación de películas o productos.
+E. Robots autónomos con conciencia propia.
+Correct Answer: A
+Correct Answer: C
+Correct Answer: D
