@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
 *.pyo
@@ -91,3 +91,13 @@ examen_config.json
 log_parser.txt
 resultados_*.txt
 resultados_*.pdf
+# ============================================================
+# Agent Skills (auto-synced by ia-backup — DO NOT COMMIT)
+# Managed by: Sync_Skills_Workspace.ps1
+# ============================================================
+.agents/skills/
+.claude/skills/
+.gemini/skills/
+.copilot/skills/
+.codex/skills/
+.github/skills/
