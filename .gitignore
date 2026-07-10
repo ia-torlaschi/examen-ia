@@ -101,3 +101,9 @@ resultados_*.pdf
 .copilot/skills/
 .codex/skills/
 .github/skills/
+# ia-backup canonico (solo local — NO publicar)
+.claude/agents/
+.codex/agents/
+.gemini/agents/
+.github/agents/
+.continue/
