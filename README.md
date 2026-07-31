@@ -1,5 +1,12 @@
 # Examen IA - Simulador de Exámenes
 
+<!-- ia-backup-gitignore-policy-2026-07-31 -->
+> **Política Git IA pública — 2026-07-31:** las 27 rutas operativas IA están
+> excluidas de Git. Este repositorio no recibe Sync, Google overlay, memoria
+> operativa ni particulares desde ia-backup. La exclusión declara expresamente
+> .agents, .claude, .codex, .continue, .copilot, .gemini y
+> .github.
+
 ## Descripción
 
 Este proyecto es un simulador de exámenes versátil que permite a los usuarios practicar con preguntas cargadas desde archivos de texto (`.txt`). Ofrece interfaces tanto gráficas (GUI) como de línea de comandos (CLI) y múltiples modos de examen, incluyendo feedback inmediato y evaluación final.
